@@ -1,4 +1,4 @@
-# Urban-ecological-environment-quality-evaluation-using-deep-autoencoder
+# UEEQ_AE
  Urban ecological environment quality evaluation using deep autoencoder integration of multisource remote sensing data
  
 Urban Eco-Environmental Quality (UEEQ) plays a vital role in human well-being and ecosystem sustainability, yet its assessment remains challenging due to the complex interactions among multiple ecological, environmental, and social factors. To address this, we propose an innovative multi-source remote sensing assessment framework based on deep autoencoders, which systematically integrates diverse indicators to evaluate the spatiotemporal evolution and key driving forces of UEEQ in Beijing from 2015 to 2020. Compared to traditional methods, this framework offers enhanced comprehensiveness and adaptability in feature extraction, model training, and interpretability.
